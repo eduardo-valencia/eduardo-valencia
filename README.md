@@ -8,10 +8,10 @@ Check out my portfolio!
 https://supercoder.dev
 
 
-Here are some of the other technologies I work with:
+Here are some of the other technologies I enjoy working with:
 
 - Mongoose, Express, React, and Node (MERN)
-- Microfrontends
+- Micro frontends
 - Next.js
 - Gatsby
 - Docker
